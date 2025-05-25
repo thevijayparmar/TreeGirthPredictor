@@ -1,0 +1,6 @@
+cd tree-allometry-app
+git init
+git add streamlit_app.py requirements.txt
+git commit -m "Initial Streamlit version"
+git remote add origin https://github.com/<your-user>/<your-repo>.git
+git push -u origin main
